@@ -1,0 +1,10 @@
+# окружение и IDE
+.venv/
+.idea/workspace.xml
+.playwright-mcp/
+__pycache__/
+
+# приватные исходники — не публикуются
+alena-koira-data.pdf
+alean-koira-final.jpeg
+alena-portrait.jpg
